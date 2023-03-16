@@ -13,7 +13,7 @@ main{
     background-color: #fff;
     width: 100%;
 }
-header{
+.header{
     height: 160px;
     padding-top: 10px;
     color: white;
